@@ -1,0 +1,4 @@
+Tenex is a decentralized finance (DeFi) platform providing staking and token swaps.
+Users can stake TENEX tokens to earn rewards.
+...
+(Add all relevant docs, FAQs, product details here.)
